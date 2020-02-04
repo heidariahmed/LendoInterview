@@ -1,0 +1,4 @@
+com\restaurantfinder\controllers\RestaurantControllerTest.class
+com\restaurantfinder\services\restaurant\RestaurantServiceImpltTest.class
+com\restaurantfinder\api\RestaurantEndpointTest.class
+com\restaurantfinder\cache\LocalCacheTest.class
